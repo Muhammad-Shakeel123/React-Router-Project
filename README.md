@@ -109,4 +109,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🚀 Live Demo
 
-You can view the live demo of the project here: [React Router Project](https://react-password-generator-project-i7atiqqur.vercel.app)
+You can view the live demo of the project here: [React Router Project](https://react-router-project-aw6zbry3p.vercel.app)
